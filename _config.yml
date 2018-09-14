@@ -4,6 +4,7 @@
 title: My Resume
 url: 'http://yifeiliu.com'
 #baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/'
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 
