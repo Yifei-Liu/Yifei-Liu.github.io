@@ -46,13 +46,14 @@ career-profile:
     summary: |
       I am a 3rd-year master student at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) advised by 
       [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm) 
-      and a member of Wuhan National Laboratory for Optoelectronics (WNLO). I am broadly interested in distributed file/storage systems
+      and a member of [Wuhan National Laboratory for Optoelectronics (WNLO)](http://english.wnlo.hust.edu.cn/). 
+      I am broadly interested in distributed file/storage systems
       including object storage, cloud storage, and NoSQL. My recent research projects include query optimization of storage systems
       by using deep learning algorithms and graph mining with hashing. Prior to HUST, I received the Bachelor degree in
-      Computer Science and Technology from Huazhong Agricultural University in 2016. 
+      Computer Science and Technology from [Huazhong Agricultural University](http://www.hzau.edu.cn/en/HOME.htm) in 2016. 
    
     
-      Research Interests: Distributed Systems, File/Storage Systems, Machine Learning for Systems
+      <b>Research Interests:</b> Distributed Systems, File/Storage Systems, Machine Learning for Systems
 
 education:
     - degree: M.Sc. in Computer Architecture
@@ -111,7 +112,7 @@ publications:
 experiences:
     - role: Master Student/Research Assistant
       time: Sep 2016 – Now
-      company: Wuhan National Laboratory for Optoelectronics
+      company: <i>Wuhan National Laboratory for Optoelectronics</i>
 
       
     - role: Backend Developer Intern
