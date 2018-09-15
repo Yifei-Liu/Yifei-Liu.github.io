@@ -42,7 +42,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Profile
+    title: Short Biography
     summary: |
       I am a 3rd-year master student at Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou 
       and a member of Wuhan National Laboratory for Optoelectronics (WNLO). I am broadly interested in distributed file/storage systems
@@ -84,25 +84,29 @@ education:
                 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+    
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "SwiftGraph: a new metadata organization approach for enabling semantic queries in storage systems via deep learning hash"
+        authors: Yifei Liu, Yu Liu, Yangtao Wang, Ke Zhou and Yujuan Yang
+        conference: to be submitted
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Analysis and Management to Hash-Based Graph and Rank"
+        authors: Yangtao Wang, Yu Liu, Yifei Liu, Ke Zhou and Yujuan Yang
+        conference: has submitted to International Conference on Database Theory (ICDT), 2017.
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55" 
+      - title: "An Effective Framework for Image Dark Data Lightening and Assessing"
+        authors: Yu Liu, Yangtao Wang, Ke Zhou, Yujuan Yang, Yifei Liu and Zhili Xiao
+        conference: to be submitted
+        
+      - title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
+        authors: Jianxiao Liu, Zonglin Tian, Yifei Liu and Liang Zhao
+        conference: "in Proceedings of the International Conference on Services Computing(SCC), Seattle, WA, Jun 2018. (Research Track)"
+        
+      - title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD"
+        authors: Pujuan Shi, Yifei Liu, Yihang Fang, Chengda Lin and Ruifang Zhai
+        conference: in Proceedings of the 4th International Conference on Agro-Geoinformatics, Istanbul, Turkey, Jul 2015 
 
-                
+  
 experiences:
     - role: Master Student/Research Assistant
       time: Sep 2016 – Now
