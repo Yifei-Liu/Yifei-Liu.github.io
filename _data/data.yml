@@ -99,9 +99,9 @@ experiences:
           - Advisor: Prof. Ke Zhou
           #- Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Backend Developer Intern
+      time: December 2015 - August 2016
+      company: Tencent
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -112,9 +112,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Intern/Visiting Student
+      time: November 2015 - December 2015
+      company: Institute of Computing Technology, Chinese Academy of Sciences
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -125,6 +125,34 @@ experiences:
           - Bullet point
           - Bullet point
 
+          
+    - role: Front-end Student Intern
+      time: July 2015 - August 2015
+      company: Chinasoft International
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+          
+    - role: Undergraduate Research Assistant
+      time: November 2014 - June 2015
+      company: Huazhong Agricultural University
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Supervisors: Prof. Jianxiao Liu & Prof. Ruifang Zhai
+          - Bullet point          
+          
+          
 projects:
     title: Projects
     intro: >
