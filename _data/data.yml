@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I am a 3rd-year master student at Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou 
+      I am a <b>3rd-year</b> master student at Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou 
       and a member of Wuhan National Laboratory for Optoelectronics (WNLO). I am broadly interested in distributed file/storage systems
       including object storage, cloud storage, and NoSQL. My recent research projects include query optimization of storage systems
       by using deep learning algorithms and graph mining with hashing. Prior to HUST, I received the Bachelor degree in
