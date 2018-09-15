@@ -15,7 +15,7 @@ sidebar:
     email: yfliucs@gmail.com
     phone: 86-182-027-137-91
     website: yifeiliu.me #do not add http://
-    linkedin: Yifei Liu
+    linkedin: yifei-liu
     github: Yifei-Liu
     gitlab:
     bitbucket:
@@ -41,21 +41,23 @@ sidebar:
       - item: Running
         link:
 
-career-profile:
-    title: Career Profile
+short-biography:
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am a 3rd-year master student at Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou 
+      and a member of Wuhan National Laboratory for Optoelectronics (WNLO). I am broadly interested in distributed file/storage systems
+      including object storage, cloud storage, and NoSQL. My recent research projects include query optimization of storage systems
+      by using deep learning algorithms and graph mining with hashing.
+      
+      
+      
+    
+      Research Interests: Distributed Systems, File/Storage Systems, Machine Learning for Systems
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: M.Sc. in Computer Architecture
+      university: Huazhong University of Science and Technology
+      time: Sep 2016 - Jun 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +68,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.Eng. in Computer Science and Technology
+      university: Huazhong Agricultural University
+      time: Sep 2012 - Jun 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
