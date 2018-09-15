@@ -81,6 +81,28 @@ education:
           - Bullet point
           - Bullet point 
 
+          
+          
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"          
+          
 experiences:
     - role: Master Student/Research Assistant
       time: September 2016 – Now
@@ -155,14 +177,10 @@ experiences:
           
 projects:
     title: Research Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: "SwiftGraph: a middleware for enabling accurate and fast semantic queries in storage systems through deep learning"
-        link: "#hook"
+        link: "#"
         tagline: "Existing storage systems with simple metadata and conventional hierarchical directory tree fail to meet the requirement of content-based query operations like finding semantically similar images with a specific image file. Therefore, we design and implement SwiftGraph which is a system middle that supports semantic metadata generated from deep learning hash. SwiftGraph applies a high-performance graph structure to organize the semantic hash codes and therefore provides low-latency content-based query interfaces. The performance evaluation on the different datasets demonstrates the query accuracy, and efficiency outruns other metadata search paradigms."
 
       - title: Semantic Hash Rank of Graphs for Lightening and Assessing Image "Dark Data"
@@ -175,53 +193,15 @@ projects:
 
       - title: Web Service Recommendation Using Bayesian Network Reasoning
         link: "https://link.springer.com/chapter/10.1007/978-3-319-94376-3_2"
-        tagline: "It is important to recommend the atomic service and a set of services with correlations for meeting users’ QoS requirements in the era of service-oriented computing. To effectively organize and recommend web services, we make use of three-stage Bayesian network structure learning to construct a directed acyclic graph (network) and parameter learning to learn the conditional probability of all the nodes of the network. Compared with other service recommendation methods, the Bayesian network is more suitable for correlated services. Considerable experiments are conducted to validate and illustrate the proposed methods. "
+        tagline: "It is important to recommend the atomic service and a set of services with correlations for meeting users' QoS requirements in the era of service-oriented computing. To effectively organize and recommend web services, we make use of three-stage Bayesian network structure learning to construct a directed acyclic graph (network) and parameter learning to learn the conditional probability of all the nodes of the network. Compared with other service recommendation methods, the Bayesian network is more suitable for correlated services. Considerable experiments are conducted to validate and illustrate the proposed methods. "
 
       - title: Automatic Measurement of Character Parameters of the Rapeseed Plant via Image Lines Detection
         link: "https://ieeexplore.ieee.org/document/7248122/?arnumber=7248122"
         tagline: "Character parameters of crops like plant height and length of the branch are of great importance to production and mechanized harvest. We propose a methodology for measuring the character parameters of rapeseed plants automatically by detecting line segments in the plant images. The image line detection process utilizes a Line Segment Detector (PAMI 2010) which is a fast, accurate and state-of-the-art algorithm. For eliminating the useless and short line segments, we use a number of techniques based on the geometric features of extracted lines. The experiment shows that the error rate (around 1.25%) of the results is quite low with inexpensive computing resources, which can better meet the actual demands of agriculture."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
