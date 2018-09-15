@@ -85,32 +85,31 @@ education:
           
 experiences:
     - role: Master Student/Research Assistant
-      time: September 2016 – Now
+      time: Sep 2016 – Now
       company: Wuhan National Laboratory for Optoelectronics
 
       
     - role: Backend Developer Intern
-      time: December 2015 - August 2016
+      time: Dec 2015 - Aug 2016
       company: Tencent
 
 
     - role: Intern/Visiting Student
-      time: November 2015 - December 2015
+      time: Nov 2015 - Dec 2015
       company: Institute of Computing Technology, Chinese Academy of Sciences
 
           
     - role: Front-end Student Intern
-      time: July 2015 - August 2015
+      time: Jul 2015 - Aug 2015
       company: Chinasoft International
 
           
     - role: Undergraduate Research Assistant
-      time: November 2014 - June 2015
+      time: Nov 2014 - Jun 2015
       company: Huazhong Agricultural University
-        
           
           
-projects:
+experiences:
     title: Research Projects
 
     assignments:
