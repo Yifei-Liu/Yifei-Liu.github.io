@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yifei Liu
-    tagline: Master Student
+    tagline: Master Student at Huazhong University of Science and Technology
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,7 +44,8 @@ sidebar:
 career-profile:
     title: Short Biography
     summary: |
-      I am a 3rd-year master student at Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou 
+      I am a 3rd-year master student at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) advised by 
+      [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm) 
       and a member of Wuhan National Laboratory for Optoelectronics (WNLO). I am broadly interested in distributed file/storage systems
       including object storage, cloud storage, and NoSQL. My recent research projects include query optimization of storage systems
       by using deep learning algorithms and graph mining with hashing. Prior to HUST, I received the Bachelor degree in
