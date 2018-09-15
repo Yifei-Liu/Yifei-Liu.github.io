@@ -141,7 +141,7 @@ projects:
     title: Research Projects
 
     assignments:
-      - title: "<font color="deepskyblue">SwiftGraph: a middleware for enabling accurate and fast semantic queries in storage systems through deep learning<br></font>"
+      - title: "<font color="deepskyblue">SwiftGraph: a middleware for enabling accurate and fast semantic queries in storage systems through deep learning</font>"<br>
         link: "#"
         tagline: "Existing storage systems with simple metadata and conventional hierarchical directory tree fail to meet the requirement of content-based query operations like finding semantically similar images with a specific image file. Therefore, we design and implement SwiftGraph which is a system middle that supports semantic metadata generated from deep learning hash. SwiftGraph applies a high-performance graph structure to organize the semantic hash codes and therefore provides low-latency content-based query interfaces. The performance evaluation on the different datasets demonstrates the query accuracy, and efficiency outruns other metadata search paradigms."
         
