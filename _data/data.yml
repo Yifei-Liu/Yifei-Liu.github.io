@@ -90,7 +90,7 @@ publications:
     title: Publications
     
     papers:
-      - title: "<font color="deepskyblue">SwiftGraph: a new metadata organization approach for enabling semantic queries in storage systems via deep learning hash</font>"
+      - title: "SwiftGraph: a new metadata organization approach for enabling semantic queries in storage systems via deep learning hash"
         authors: Yifei Liu, Yu Liu, Yangtao Wang, Ke Zhou and Yujuan Yang
         conference: to be submitted
 
