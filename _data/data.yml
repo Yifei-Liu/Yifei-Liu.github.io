@@ -41,14 +41,14 @@ sidebar:
       - item: Running
         link:
 
-short-biography:
+career-profile:
     title: Profile
     summary: |
       I am a 3rd-year master student at Huazhong University of Science and Technology (HUST) advised by Prof. Ke Zhou 
       and a member of Wuhan National Laboratory for Optoelectronics (WNLO). I am broadly interested in distributed file/storage systems
       including object storage, cloud storage, and NoSQL. My recent research projects include query optimization of storage systems
-      by using deep learning algorithms and graph mining with hashing.
-      
+      by using deep learning algorithms and graph mining with hashing. Prior to HUST, I received the Bachelor degree in
+      Computer Science and Technology from Huazhong Agricultural University in 2016. 
       
       
     
@@ -82,22 +82,22 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    - role: Master Student/Research Assistant
+      time: September 2016 – Now
+      company: Wuhan National Laboratory for Optoelectronics
+      #details: |
+      #  Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #  Cum sociis natoque penatibus et magnis dis parturient montes,
+      #  nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #  pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      #  enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      #  error sit voluptatem accusantium doloremque laudantium, totam rem
+      #  aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      #  architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point 
+          - Advisor: Prof. Ke Zhou
+          #- Bullet point 
 
     - role: Senior Software Engineer
       time: 2014 - 2015
