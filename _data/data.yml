@@ -49,8 +49,7 @@ career-profile:
       including object storage, cloud storage, and NoSQL. My recent research projects include query optimization of storage systems
       by using deep learning algorithms and graph mining with hashing. Prior to HUST, I received the Bachelor degree in
       Computer Science and Technology from Huazhong Agricultural University in 2016. 
-      
-      
+   
     
       Research Interests: Distributed Systems, File/Storage Systems, Machine Learning for Systems
 
@@ -82,26 +81,7 @@ education:
           - Bullet point 
 
           
-          
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"          
+                
           
 experiences:
     - role: Master Student/Research Assistant
@@ -200,7 +180,25 @@ projects:
         tagline: "Character parameters of crops like plant height and length of the branch are of great importance to production and mechanized harvest. We propose a methodology for measuring the character parameters of rapeseed plants automatically by detecting line segments in the plant images. The image line detection process utilizes a Line Segment Detector (PAMI 2010) which is a fast, accurate and state-of-the-art algorithm. For eliminating the useless and short line segments, we use a number of techniques based on the geometric features of extracted lines. The experiment shows that the error rate (around 1.25%) of the results is quite low with inexpensive computing resources, which can better meet the actual demands of agriculture."
 
 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
 
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55" 
 
 
 footer: >
