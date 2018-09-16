@@ -170,7 +170,7 @@ projects:
         tagline: "Character parameters of crops like plant height and length of the branch are of great importance to production and mechanized harvest. We propose a methodology for measuring the character parameters of rapeseed plants automatically by detecting line segments in the plant images. The image line detection process utilizes a Line Segment Detector (PAMI 2010) which is a fast, accurate and state-of-the-art algorithm. For eliminating the useless and short line segments, we use a number of techniques based on the geometric features of extracted lines. The experiment shows that the error rate (around 1.25%) of the results is quite low with inexpensive computing resources, which can better meet the actual demands of agriculture."
         
 
-publications:
+honors:
     title: Honors &amp; Awards
     
     papers:
