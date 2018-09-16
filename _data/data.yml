@@ -144,9 +144,9 @@ projects:
       - title: "SwiftGraph: a middleware for enabling accurate and fast semantic queries in storage systems through deep learning<br>"
         link: "#"
         tagline: "Existing storage systems with simple metadata and traditional hierarchical directory tree fail to meet the requirement of content-based query operations like finding semantically similar images with a specific image file. Therefore, we design and implement SwiftGraph which is a system middle that supports semantic metadata generated from deep learning hash. SwiftGraph applies an effective graph structure to organize the semantic hash codes and therefore provides low-latency content-based query interfaces. The performance evaluation on the different datasets demonstrates that the query accuracy and efficiency outrun other metadata search paradigms."
-
         
-      - title: Semantic Hash Rank of Graphs for Lightening and Assessing Image "Dark Data"
+        
+      - title: Semantic Hash Rank of Graphs for Lightening and Assessing Image "Dark Data"<br>
         link: "#"
         tagline: "Dark data are some existing data that the developers or the users are not aware of their existence or value, or do not know how to extract value from them. To address the emerging dark data challenge, we propose a framework for lightening the image dark data by using a semantic hash ranking (SHR) algorithm. This framework can also score the image dark data. Therefore it helps find "important images" in the massive dataset. The evaluation results demonstrate the performance and validity of our method."
         
@@ -161,7 +161,6 @@ projects:
       - title: Web Service Recommendation Using Bayesian Network Reasoning<br>
         link: "https://link.springer.com/chapter/10.1007/978-3-319-94376-3_2"
         tagline: "It is essential to recommend the atomic service and a set of services with correlations for meeting users' QoS requirements in the era of service-oriented computing. To effectively organize and recommend web services, we make use of three-stage Bayesian network structure learning to construct a directed acyclic graph (network) and parameter learning to learn the conditional probability of all the nodes in the network. Compared with other service recommendation methods, the Bayesian network is more suitable for correlated services. Considerable experiments are conducted to validate and illustrate the proposed methods."
-        
         
 
       - title: Automatic Measurement of Character Parameters of the Rapeseed Plant via Image Lines Detection<br>
