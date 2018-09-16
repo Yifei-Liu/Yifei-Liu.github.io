@@ -119,22 +119,22 @@ experiences:
       
     - role: Backend Developer Intern
       time: Dec 2015 - Aug 2016
-      company: <i>Tencent, Shenzhen, China</i>
+      company: <i><a href="https://www.tencent.com/en-us/index.html">Tencent, Shenzhen, China</a></i>
 
 
     - role: Intern/Visiting Student
       time: Nov 2015 - Dec 2015
-      company: <i>Institute of Computing Technology, Chinese Academy of Sciences</i>
+      company: <i><a href="http://english.ict.cas.cn/">Institute of Computing Technology, Chinese Academy of Sciences</a></i>
 
           
     - role: Front-end Student Intern
       time: Jul 2015 - Aug 2015
-      company: <i>Chinasoft International, Guangzhou</i>
+      company: <i><a href="http://www.chinasofti.com/en/index.shtml">Chinasoft International, Guangzhou, China</a></i>
 
           
     - role: Undergraduate Research Assistant
       time: Nov 2014 - Jun 2015
-      company: <i>Huazhong Agricultural University</i>
+      company: <i><a href="http://www.hzau.edu.cn/en/HOME.htm">Huazhong Agricultural University</a></i>
           
           
 projects:
@@ -142,8 +142,8 @@ projects:
 
     assignments:
       - title: "SwiftGraph: a middleware for enabling accurate and fast semantic queries in storage systems through deep learning<br>"
-        link: "#"
-        tagline: "Existing storage systems with simple metadata and conventional hierarchical directory tree fail to meet the requirement of content-based query operations like finding semantically similar images with a specific image file. Therefore, we design and implement SwiftGraph which is a system middle that supports semantic metadata generated from deep learning hash. SwiftGraph applies a high-performance graph structure to organize the semantic hash codes and therefore provides low-latency content-based query interfaces. The performance evaluation on the different datasets demonstrates the query accuracy, and efficiency outruns other metadata search paradigms."
+        link: ""
+        tagline: "Existing storage systems with simple metadata and traditional hierarchical directory tree fail to meet the requirement of content-based query operations like finding semantically similar images with a specific image file. Therefore, we design and implement SwiftGraph which is a system middle that supports semantic metadata generated from deep learning hash. SwiftGraph applies an effective graph structure to organize the semantic hash codes and therefore provides low-latency content-based query interfaces. The performance evaluation on the different datasets demonstrates that the query accuracy and efficiency outrun other metadata search paradigms."
         
         
       - title: Semantic Hash Rank of Graphs for Lightening and Assessing Image "Dark Data"<br>
