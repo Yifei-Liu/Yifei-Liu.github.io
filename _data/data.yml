@@ -50,7 +50,7 @@ career-profile:
       I am broadly interested in distributed file/storage systems
       including object storage, cloud storage, and NoSQL. My recent research projects include query optimization of storage systems
       by using deep learning algorithms and graph mining with hashing. Prior to HUST, I received the Bachelor degree in
-      Computer Science and Technology from [Huazhong Agricultural University](http://www.hzau.edu.cn/en/HOME.htm) in 2016. 
+      Computer Science and Technology from [Huazhong Agricultural University](http://www.hzau.edu.cn/en/HOME.htm) in 2016. [C.V.](./assets/Yifei_Liu_CV.pdf)
        
       <strong>Research Interests:</strong> Distributed Systems, File/Storage Systems, Machine Learning for Systems
       <br />
@@ -174,9 +174,9 @@ honors:
     title: Honors &amp; Awards
     
     papers:
-      - "Merit Graduate Student, 2017"
+      - title: "Merit Graduate Student, 2017"
 
-      - "National Second Prize of National Postgraduate Mathematic Contest in Modeling, 2017"
+      - title: "National Second Prize of National Postgraduate Mathematic Contest in Modeling, 2017"
 
       - title: "First-class Academic Scholarship, 2016 - 2018"
         
