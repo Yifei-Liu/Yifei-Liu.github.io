@@ -171,28 +171,26 @@ projects:
         
 
 publications:
-    title: Awards & Honors
+    title: Honors & Awards
     
     papers:
-      - title: "SwiftGraph: a new metadata organization approach for enabling semantic queries in storage systems via deep learning hash"
-        authors: Yifei Liu, Yu Liu, Yangtao Wang, Ke Zhou and Yujuan Yang
-        conference: to be submitted
+      - title: "Merit Graduate Student, 2017"
 
-      - title: "Analysis and Management to Hash-Based Graph and Rank"
-        authors: Yangtao Wang, Yu Liu, Yifei Liu, Ke Zhou and Yujuan Yang
-        conference: has submitted to International Conference on Database Theory (ICDT), 2017.
+      - title: "National Second Prize of National Postgraduate Mathematic Contest in Modeling, 2017"
 
-      - title: "An Effective Framework for Image Dark Data Lightening and Assessing"
-        authors: Yu Liu, Yangtao Wang, Ke Zhou, Yujuan Yang, Yifei Liu and Zhili Xiao
-        conference: to be submitted
+      - title: "First-class Academic Scholarship, 2016 - 2018"
         
-      - title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
-        authors: Jianxiao Liu, Zonglin Tian, Yifei Liu and Liang Zhao
-        conference: "in Proceedings of the International Conference on Services Computing(SCC), Seattle, WA, Jun 2018. (Research Track)"
+      - title: "Outstanding Graduate of Huazhong Agricultural University, 2016"
         
-      - title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD"
-        authors: Pujuan Shi, Yifei Liu, Yihang Fang, Chengda Lin and Ruifang Zhai
-        conference: in Proceedings of the 4th International Conference on Agro-Geoinformatics, Istanbul, Turkey, Jul 2015 
+      - title: "Merit Undergraduate Student, 2014 - 2016"
+      
+      - title: "First Scholarship for Study(4/118), 2015"
+      
+      - title: "Finalist of Interdisciplinary Contest in Modeling(MCM/ICM, 52/9773 ~0.53%),2015 (See the [Chinese Report](http://news.hzau.edu.cn/2015/0413/41925.shtml) on Wuhan Morning News)"
+      
+      - title: "National First Prize of National Postgraduate Mathematic Contest in Modeling (120/4900 ~2.4%), 2014"
+      
+      - title: "National First Prize of Contemporary Undergraduate Mathematical Contest in Modeling (293/22233 ~1.3%), 2014"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
