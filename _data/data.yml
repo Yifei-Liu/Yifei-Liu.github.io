@@ -170,8 +170,29 @@ projects:
         tagline: "Character parameters of crops like plant height and length of the branch are of great importance to production and mechanized harvest. We propose a methodology for measuring the character parameters of rapeseed plants automatically by detecting line segments in the plant images. The image line detection process utilizes a Line Segment Detector (PAMI 2010) which is a fast, accurate and state-of-the-art algorithm. For eliminating the useless and short line segments, we use a number of techniques based on the geometric features of extracted lines. The experiment shows that the error rate (around 1.25%) of the results is quite low with inexpensive computing resources, which can better meet the actual demands of agriculture."
         
 
-honors:
-    title: Honors & Awards
+publications:
+    title: Awards & Honors
+    
+    papers:
+      - title: "SwiftGraph: a new metadata organization approach for enabling semantic queries in storage systems via deep learning hash"
+        authors: Yifei Liu, Yu Liu, Yangtao Wang, Ke Zhou and Yujuan Yang
+        conference: to be submitted
+
+      - title: "Analysis and Management to Hash-Based Graph and Rank"
+        authors: Yangtao Wang, Yu Liu, Yifei Liu, Ke Zhou and Yujuan Yang
+        conference: has submitted to International Conference on Database Theory (ICDT), 2017.
+
+      - title: "An Effective Framework for Image Dark Data Lightening and Assessing"
+        authors: Yu Liu, Yangtao Wang, Ke Zhou, Yujuan Yang, Yifei Liu and Zhili Xiao
+        conference: to be submitted
+        
+      - title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
+        authors: Jianxiao Liu, Zonglin Tian, Yifei Liu and Liang Zhao
+        conference: "in Proceedings of the International Conference on Services Computing(SCC), Seattle, WA, Jun 2018. (Research Track)"
+        
+      - title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD"
+        authors: Pujuan Shi, Yifei Liu, Yihang Fang, Chengda Lin and Ruifang Zhai
+        conference: in Proceedings of the 4th International Conference on Agro-Geoinformatics, Istanbul, Turkey, Jul 2015 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
