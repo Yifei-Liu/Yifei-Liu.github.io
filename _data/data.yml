@@ -44,9 +44,9 @@ sidebar:
 career-profile:
     title: Short Biography
     summary: |
-      I am a 3rd-year master student at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) advised by 
+      I am a 3rd-year master student at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), working with 
       [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm) 
-      and member of [Wuhan National Laboratory for Optoelectronics (WNLO)](http://english.wnlo.hust.edu.cn/). 
+      and I am a member of [Wuhan National Laboratory for Optoelectronics (WNLO)](http://english.wnlo.hust.edu.cn/). 
       I am broadly interested in distributed file/storage systems
       including object storage, cloud storage, and NoSQL. My recent research projects include semantic query improvement for storage systems
       by using deep learning algorithms and graph mining with hashing. Prior to HUST, I received the Bachelor degree in
