@@ -89,28 +89,28 @@ education:
 publications:
     title: Publications
     intro: |
-      <b>All listed papers belong to full paper or regular paper in conference.</b>
+      <b>All these listed papers belong to full paper or regular paper in conference.</b>
     
     
     papers:
       - title: "SwiftGraph: A Metadata Organization Approach for Enabling Semantic Queries in Storage Systems"
-        authors: <b>Yifei Liu</b>, Yu Liu, Yangtao Wang, Ke Zhou and Yujuan Yang
+        authors: <b>Yifei Liu</b>, Yu Liu, Yangtao Wang, Ke Zhou, and Yujuan Yang
         conference: <b>Under Review</b> at International Parallel & Distributed Processing Symposium (<b>IPDPS</b>), 2019.
 
       - title: "Analysis and Management to Hash-Based Graph and Rank"
-        authors: Yangtao Wang, Yu Liu, <b>Yifei Liu</b>, Ke Zhou and Yujuan Yang
+        authors: Yangtao Wang, Yu Liu, <b>Yifei Liu</b>, Ke Zhou, and Yujuan Yang
         conference: <b>Under Review</b> at International Conference on Database Theory (<b>ICDT</b>), 2019.
 
       - title: "A Framework for Image Dark Data Assessment"
-        authors: Yu Liu, Yangtao Wang, Ke Zhou, Guoliang Li, Yujuan Yang and <b>Yifei Liu</b>
+        authors: Yu Liu, Yangtao Wang, Ke Zhou, Guoliang Li, Yujuan Yang, and <b>Yifei Liu</b>
         conference: <b>Under Review</b> at International Conference on Data Engineering (<b>ICDE</b>), 2019.
         
       - title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
-        authors: Jianxiao Liu, Zonglin Tian, <b>Yifei Liu</b> and Liang Zhao
-        conference: "in Proceedings of the International Conference on Services Computing (<b>SCC</b>), Seattle, WA, Jun 2018. (Research Track)"
+        authors: Jianxiao Liu, Zonglin Tian, <b>Yifei Liu</b>, and Liang Zhao
+        conference: "in Proceedings of the 15th International Conference on Services Computing (<b>SCC</b>), Seattle, WA, Jun 2018. (Research Track)"
         
       - title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD"
-        authors: Pujuan Shi, <b>Yifei Liu</b>, Yihang Fang, Chengda Lin and Ruifang Zhai
+        authors: Pujuan Shi, <b>Yifei Liu</b>, Yihang Fang, Chengda Lin, and Ruifang Zhai
         conference: "in Proceedings of the 4th International Conference on Agro-Geoinformatics (<b>Agro-geoinformatics</b>), Istanbul, Turkey, Jul 2015. (<b>Oral</b>)"
 
   
