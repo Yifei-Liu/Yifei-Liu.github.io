@@ -89,7 +89,8 @@ education:
 publications:
     title: Publications
     intro: |
-      All these listed papars are full paper or regular paper in conference.
+      <b>All listed papers belong to full paper or regular paper in conference.</b>
+    
     
     papers:
       - title: "SwiftGraph: A Metadata Organization Approach for Enabling Semantic Queries in Storage Systems"
