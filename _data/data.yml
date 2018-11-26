@@ -60,7 +60,7 @@ career-profile:
 education:
     - degree: M.Sc. in Computer System Architecture
       university: Huazhong University of Science and Technology
-      time: Sep 2016 - Jun 2019 (Expected)
+      time: 09/2016 - 06/2019 (Expected)
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -73,7 +73,7 @@ education:
 
     - degree: B.Eng. in Computer Science and Technology
       university: Huazhong Agricultural University
-      time: Sep 2012 - Jun 2016
+      time: 09/2012 - 06/2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -112,28 +112,28 @@ publications:
 
   
 experiences:
-    - role: Master Student/Research Assistant
-      time: Sep 2016 – Now
+    - role: Master's Student/Research Assistant
+      time: 09/2016 – Present
       company: <i><a href="http://english.wnlo.hust.edu.cn/">Wuhan National Laboratory for Optoelectronics</a></i>
 
       
     - role: Backend Developer Intern
-      time: Dec 2015 - Aug 2016
+      time: 12/2015 - 08/2016
       company: <i><a href="https://www.tencent.com/en-us/index.html">Tencent, Shenzhen, China</a></i>
 
 
     - role: Intern/Visiting Student
-      time: Nov 2015 - Dec 2015
+      time: 11/2015 - 12/2015
       company: <i><a href="http://english.ict.cas.cn/">Institute of Computing Technology, Chinese Academy of Sciences</a></i>
 
           
     - role: Front-end Student Intern
-      time: Jul 2015 - Aug 2015
+      time: 07/2015 - 08/2015
       company: <i><a href="http://www.chinasofti.com/en/index.shtml">Chinasoft International, Guangzhou, China</a></i>
 
           
     - role: Undergraduate Research Assistant
-      time: Nov 2014 - Jun 2015
+      time: 11/2014 - 06/2015
       company: <i><a href="http://www.hzau.edu.cn/en/HOME.htm">Huazhong Agricultural University</a></i>
           
           
@@ -174,28 +174,30 @@ honors:
     title: Honors &amp; Awards
     
     papers:
-      - title: "Merit Graduate Student, 2017 - 2019"
+    <ul>
+      <li>- title: "Merit Graduate Student, 2017 - 2019"</li>
 
-      - title: Second Prize of <a href="http://gmcm.seu.edu.cn/">National Postgraduate Mathematic Contest in Modeling</a>, 2017
+      <li>- title: Second Prize of <a href="http://gmcm.seu.edu.cn/">National Postgraduate Mathematic Contest in Modeling</a>, 2017</li>
 
-      - title: "First-class Academic Scholarship, 2016 - 2019"
+      <li>- title: "First-class Academic Scholarship, 2016 - 2019"</li>
         
-      - title: "Outstanding Graduate of Huazhong Agricultural University, 2016"
+      <li>- title: "Outstanding Graduate of Huazhong Agricultural University, 2016"</li>
         
-      - title: "Merit Undergraduate Student, 2014 - 2016"
+      <li>- title: "Merit Undergraduate Student, 2014 - 2016"</li>
       
-      - title: "BioMarker Enterprise Scholarship, 2015"
+      <li>- title: "BioMarker Enterprise Scholarship, 2015"</li>
       
-      - title: "First Scholarship for Study, 2015"
+      <li>- title: "First Scholarship for Study, 2015"</li>
       
-      - title: Finalist of <a href="https://www.comap.com/undergraduate/contests/mcm/">Interdisciplinary Contest in Modeling</a> (52/9773 ~0.53%), 2015
+      <li>- title: Finalist of <a href="https://www.comap.com/undergraduate/contests/mcm/">Interdisciplinary Contest in Modeling</a> (52/9773 ~0.53%), 2015</li>
         authors: See this <a href="http://news.hzau.edu.cn/2015/0413/41925.shtml">Chinese Report</a> on Wuhan Morning News
       
-      - title: First Prize of <a href="http://gmcm.seu.edu.cn/">National Postgraduate Mathematic Contest in Modeling</a> (120/4900 ~2.4%), 2014
+      <li>- title: First Prize of <a href="http://gmcm.seu.edu.cn/">National Postgraduate Mathematic Contest in Modeling</a> (120/4900 ~2.4%), 2014</li>
         authors: Won best award of this contest
       
-      - title: First Prize of <a href="http://en.mcm.edu.cn/">Contemporary Undergraduate Mathematical Contest in Modeling</a> (293/22233 ~1.3%), 2014
+      <li>- title: First Prize of <a href="http://en.mcm.edu.cn/">Contemporary Undergraduate Mathematical Contest in Modeling</a> (293/22233 ~1.3%), 2014</li>
         authors: Won best award of this contest
+    </ul>
 
       
 footer: >
