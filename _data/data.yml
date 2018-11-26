@@ -55,7 +55,7 @@ career-profile:
       <strong>Research Interests:</strong> Distributed Systems, File/Storage Systems, Machine Learning for Systems
       <br />
       <br />
-      <b><font color="red">Highlight: I am looking for Computer Science Ph.D. openings in Fall 2019!</font></b>
+      <b><font color="red">Highlight: I am currently seeking Computer Science Ph.D. openings in Fall 2019!</font></b>
 
 education:
     - degree: M.Sc. in Computer System Architecture
@@ -88,6 +88,8 @@ education:
                 
 publications:
     title: Publications
+    intro: |
+      All these listed papars are full paper or regular paper in conference.
     
     papers:
       - title: "SwiftGraph: A Metadata Organization Approach for Enabling Semantic Queries in Storage Systems"
