@@ -182,8 +182,8 @@ honors:
     title: Honors &amp; Awards
     
     papers:
-    <ul>
-      - title: <li>"Outstanding Graduate, Huazhong University of Science and Technology"</li>
+   
+      - title:  <ul><li>"Outstanding Graduate, Huazhong University of Science and Technology"</li>
     
       - title: "Merit Graduate Student, 2017 - 2019"
 
@@ -206,8 +206,8 @@ honors:
         authors: Won best award of this contest
       
       - title: First Prize of <a href="http://en.mcm.edu.cn/">Contemporary Undergraduate Mathematical Contest in Modeling</a> (293/22233 ~1.3%), 2014
-        authors: Won best award of this contest
-    </ul>
+        authors: Won best award of this contest</ul>
+    
       
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
