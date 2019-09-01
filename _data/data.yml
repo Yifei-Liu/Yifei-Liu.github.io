@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yifei Liu
-    tagline: Ph.D. Student, CS@Stony Brook Univ.
+    tagline: Ph.D. Student, CS@Stony Brook University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -122,7 +122,7 @@ publications:
 experiences:
     - role: Master's Student/Research Assistant
       time: 09/2016 - 06/2019
-      company: <i><a href="http://english.wnlo.hust.edu.cn/">Wuhan National Laboratory for Optoelectronics</a></i>&nbsp;&nbsp;&nbsp;&nbsp;(Advisor':' <a href="http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm">Prof. Ke Zhou</a>)
+      company: <i><a href="http://english.wnlo.hust.edu.cn/">Wuhan National Laboratory for Optoelectronics</a></i>&nbsp;&nbsp;(Advisor':' <a href="http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm">Prof. Ke Zhou</a>)
       
       
     - role: Backend Developer Intern
@@ -142,7 +142,7 @@ experiences:
           
     - role: Undergraduate Research Assistant 
       time: 11/2014 - 06/2015
-      company: <i><a href="http://www.hzau.edu.cn/en/HOME.htm">Huazhong Agricultural University</a></i> (Supervisors [Prof. Jianxiao Liu](http://coi.hzau.edu.cn/info/1122/4278.htm) and [Prof. Ruifang Zhai](http://coi.hzau.edu.cn/info/1123/3713.htm))
+      company: <i><a href="http://www.hzau.edu.cn/en/HOME.htm">Huazhong Agricultural University</a></i>&nbsp;&nbsp;(Supervisors':' <a href="http://coi.hzau.edu.cn/info/1122/4278.htm">Prof. Jianxiao Liu</a> and <a href="http://coi.hzau.edu.cn/info/1123/3713.htm">Prof. Ruifang Zhai</a>
           
           
 projects:
