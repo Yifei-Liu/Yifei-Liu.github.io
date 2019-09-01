@@ -98,17 +98,17 @@ publications:
     
     
     papers:
-      - title: "SwiftGraph: A Metadata Organization Approach for Enabling Semantic Queries in Storage Systems"
-        authors: <b>Yifei Liu</b>, Yu Liu, Yangtao Wang, Ke Zhou, and Yujuan Yang
-        conference: <b>Under Review</b> at International Parallel & Distributed Processing Symposium (<b>IPDPS</b>), 2019.
+      - title: "Semantic-aware data quality assessment for image big data"
+        authors: Yu Liu, Yangtao Wang, Ke Zhou, Yujuan Yang and <b>Yifei Liu</b>
+        conference: Future Generation Computer Systems, Aug 2019
 
       - title: "Analysis and Management to Hash-Based Graph and Rank"
-        authors: Yangtao Wang, Yu Liu, <b>Yifei Liu</b>, Ke Zhou, and Yujuan Yang
-        conference: <b>Under Review</b> at International Conference on Database Theory (<b>ICDT</b>), 2019.
+        authors: Yangtao Wang, Yu Liu, <b>Yifei Liu</b>, Ke Zhou, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao
+        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, Aug 2019."
 
       - title: "A Framework for Image Dark Data Assessment"
-        authors: Yu Liu, Yangtao Wang, Ke Zhou, Guoliang Li, Yujuan Yang, and <b>Yifei Liu</b>
-        conference: <b>Under Review</b> at International Conference on Data Engineering (<b>ICDE</b>), 2019.
+        authors: Yu Liu, Yangtao Wang, Ke Zhou, Guoliang Li, Yujuan Yang, <b>Yifei Liu</b>, Jingkuan Song and Zhili Xiao
+        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, Aug 2019."
         
       - title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
         authors: Jianxiao Liu, Zonglin Tian, <b>Yifei Liu</b>, and Liang Zhao
