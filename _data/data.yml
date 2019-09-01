@@ -57,7 +57,17 @@ education:
     - degree: Ph.D. in Computer Science
       university: Stony Brook University
       time: 08/2019 - Current
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
+          - Bullet point
+          - Bullet point 
+          
+          
 
     - degree: M.Sc. in Computer System Architecture
       university: Huazhong University of Science and Technology
