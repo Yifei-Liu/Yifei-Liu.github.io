@@ -100,23 +100,23 @@ publications:
     papers:
       - title: "Semantic-aware data quality assessment for image big data"
         authors: Yu Liu, Yangtao Wang, Ke Zhou, Yujuan Yang and <b>Yifei Liu</b>
-        conference: Future Generation Computer Systems, Aug 2019
+        conference: Future Generation Computer Systems (<b>FGCS</b>), 2019
 
       - title: "Analysis and Management to Hash-Based Graph and Rank"
         authors: Yangtao Wang, Yu Liu, <b>Yifei Liu</b>, Ke Zhou, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao
-        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, Aug 2019."
+        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, 2019."
 
       - title: "A Framework for Image Dark Data Assessment"
         authors: Yu Liu, Yangtao Wang, Ke Zhou, Guoliang Li, Yujuan Yang, <b>Yifei Liu</b>, Jingkuan Song and Zhili Xiao
-        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, Aug 2019."
+        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, 2019."
         
       - title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
         authors: Jianxiao Liu, Zonglin Tian, <b>Yifei Liu</b>, and Liang Zhao
-        conference: "in Proceedings of the 15th International Conference on Services Computing (<b>SCC</b>), Seattle, WA, Jun 2018. (Research Track)"
+        conference: "in Proceedings of the 15th International Conference on Services Computing (<b>SCC</b>), Seattle, WA, 2018. (Research Track)"
         
       - title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD"
         authors: Pujuan Shi, <b>Yifei Liu</b>, Yihang Fang, Chengda Lin, and Ruifang Zhai
-        conference: "in Proceedings of the 4th International Conference on Agro-Geoinformatics (<b>Agro-geoinformatics</b>), Istanbul, Turkey, Jul 2015. (<b>Oral</b>)"
+        conference: "in Proceedings of the 4th International Conference on Agro-Geoinformatics (<b>Agro-geoinformatics</b>), Istanbul, Turkey, 2015. (<b>Oral</b>)"
 
   
 experiences:
