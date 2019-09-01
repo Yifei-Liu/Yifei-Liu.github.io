@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Short Biography
     summary: |
-      My name is Yifei Liu (刘毅斐 in Chinese). I am a first-year Ph.D. student in [Computer Science](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu). I am broadly interested in distributed systems and operating systems. Refer to my C.V. [here](./Yifei_Liu_CV.pdf)
+      My name is Yifei Liu (刘毅斐 in Chinese). I am a first-year Ph.D. student in [Computer Science](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu). I am broadly interested in distributed systems and operating systems. Please refer to my C.V. [here](./Yifei_Liu_CV.pdf).
       
       Prior to my Ph.D. journey, I obtained my Master degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) and Bachelor degree from [Huazhong Agricultural University](http://www.hzau.edu.cn/en/HOME.htm) in 2019 and 2016 respectively. 
 
@@ -90,33 +90,16 @@ education:
           - Bullet point
           - Bullet point 
 
-          
-                
-publications:
-    title: Publications
-    intro: |
-    
+news:
+    title: News
     
     papers:
-      - title: "Semantic-aware data quality assessment for image big data"
-        authors: Yu Liu, Yangtao Wang, Ke Zhou, Yujuan Yang and <b>Yifei Liu</b>
-        conference: Future Generation Computer Systems (<b>FGCS</b>), 2019
-
-      - title: "Analysis and Management to Hash-Based Graph and Rank"
-        authors: Yangtao Wang, Yu Liu, <b>Yifei Liu</b>, Ke Zhou, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao
-        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, 2019."
-
-      - title: "A Framework for Image Dark Data Assessment"
-        authors: Yu Liu, Yangtao Wang, Ke Zhou, Guoliang Li, Yujuan Yang, <b>Yifei Liu</b>, Jingkuan Song and Zhili Xiao
-        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, 2019."
-        
-      - title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
-        authors: Jianxiao Liu, Zonglin Tian, <b>Yifei Liu</b>, and Liang Zhao
-        conference: "in Proceedings of the 15th International Conference on Services Computing (<b>SCC</b>), Seattle, WA, 2018. (Research Track)"
-        
-      - title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD"
-        authors: Pujuan Shi, <b>Yifei Liu</b>, Yihang Fang, Chengda Lin, and Ruifang Zhai
-        conference: "in Proceedings of the 4th International Conference on Agro-Geoinformatics (<b>Agro-geoinformatics</b>), Istanbul, Turkey, 2015. (<b>Oral</b>)"
+      - title: <ul>
+      
+      - title: <li><b>"[Aug. 2019]: I join Department of Computer Science, Stony Brook University as a Ph.D. student starting from Fall 2019."</b></li>
+    
+      - title: <li>"[Jun. 2019]: I graduate from Huazhong University of Science and Technology!"</li></ul>        
+                
 
   
 experiences:
@@ -149,6 +132,34 @@ experiences:
       time: 11/2014 - 06/2015
       company: '<i><a href="http://www.hzau.edu.cn/en/HOME.htm">Huazhong Agricultural University</a></i><p>Supervisors: <a href="http://coi.hzau.edu.cn/info/1122/4278.htm">Prof. Jianxiao Liu</a> and <a href="http://coi.hzau.edu.cn/info/1123/3713.htm">Prof. Ruifang Zhai</a></p>'
           
+
+publications:
+    title: Publications
+    intro: |
+    
+    
+    papers:
+      - title: "Semantic-aware data quality assessment for image big data"
+        authors: Yu Liu, Yangtao Wang, Ke Zhou, Yujuan Yang and <b>Yifei Liu</b>
+        conference: Future Generation Computer Systems (<b>FGCS</b>), 2019
+
+      - title: "Analysis and Management to Hash-Based Graph and Rank"
+        authors: Yangtao Wang, Yu Liu, <b>Yifei Liu</b>, Ke Zhou, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao
+        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, 2019."
+
+      - title: "A Framework for Image Dark Data Assessment"
+        authors: Yu Liu, Yangtao Wang, Ke Zhou, Guoliang Li, Yujuan Yang, <b>Yifei Liu</b>, Jingkuan Song and Zhili Xiao
+        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, 2019."
+        
+      - title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
+        authors: Jianxiao Liu, Zonglin Tian, <b>Yifei Liu</b>, and Liang Zhao
+        conference: "in Proceedings of the 15th International Conference on Services Computing (<b>SCC</b>), Seattle, WA, 2018. (Research Track)"
+        
+      - title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD"
+        authors: Pujuan Shi, <b>Yifei Liu</b>, Yihang Fang, Chengda Lin, and Ruifang Zhai
+        conference: "in Proceedings of the 4th International Conference on Agro-Geoinformatics (<b>Agro-geoinformatics</b>), Istanbul, Turkey, 2015. (<b>Oral</b>)"
+
+
           
 projects:
     title: Research Projects
