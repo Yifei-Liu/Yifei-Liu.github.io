@@ -46,7 +46,7 @@ career-profile:
     summary: |
       I am a first-year Ph.D. student in [Computer Science](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu). I am broadly interested in distributed systems and operating systems. Refer to my C.V. [here](./Yifei_Liu_CV.pdf)
       
-      Prior to my Ph.D. journey, I obtained my Master degree from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) and Bachelor degree from [Huazhong Agricultural University](http://www.hzau.edu.cn/en/HOME.htm) in 2019 and 2016 respectively. 
+      Prior to my Ph.D. journey, I obtained my Master degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) and Bachelor degree from [Huazhong Agricultural University](http://www.hzau.edu.cn/en/HOME.htm) in 2019 and 2016 respectively. 
 
 education:
     - degree: Ph.D. in Computer Science
@@ -122,7 +122,7 @@ publications:
 experiences:
     - role: Master's Student/Research Assistant
       time: 09/2016 - 06/2019
-      company: <i><a href="http://english.wnlo.hust.edu.cn/">Wuhan National Laboratory for Optoelectronics</a></i> (Advisor [Prof. Ke Zhou](http://faculty.hust.edu.cn/zhouke2/zh_CN/index.htm))
+      company: <i><a href="http://english.wnlo.hust.edu.cn/">Wuhan National Laboratory for Optoelectronics</a></i> (Advisor <a href="https://www.w3schools.com">Prof. Ke Zhou<a>)
 
       
     - role: Backend Developer Intern
