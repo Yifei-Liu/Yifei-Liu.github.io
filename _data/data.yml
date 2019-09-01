@@ -181,7 +181,8 @@ projects:
 honors:
     title: Honors &amp; Awards
     
-    papers:<ul>
+    papers:
+      - title: <ul>
       
       - title: <li>Outstanding Graduate, Huazhong University of Science and Technology, 2019</li>
     
