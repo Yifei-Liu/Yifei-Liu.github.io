@@ -44,9 +44,9 @@ sidebar:
 career-profile:
     title: Short Biography
     summary: |
-      My name is Yifei Liu (刘毅斐 in Chinese). I am a first-year Ph.D. student in [Computer Science](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu). I am broadly interested in distributed systems and operating systems. Please refer to my C.V. [here](./Yifei_Liu_CV.pdf).
+      My name is Yifei Liu (刘毅斐 in Chinese). I am a first-year Ph.D. student in [Computer Science](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu). I am broadly interested in distributed file/storage systems and operating systems. Please find my C.V. [here](./Yifei_Liu_CV.pdf).
       
-      Prior to my Ph.D. journey, I obtained my Master degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) and Bachelor degree from [Huazhong Agricultural University](http://www.hzau.edu.cn/en/HOME.htm) in 2019 and 2016 respectively. 
+      Prior to my Ph.D. journey, I obtained Master degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) and Bachelor degree from [Huazhong Agricultural University](http://www.hzau.edu.cn/en/HOME.htm) in 2019 and 2016 respectively. 
 
 education:
     - degree: Ph.D. in Computer Science
@@ -96,9 +96,11 @@ news:
     papers:
       - title: <ul>
       
-      - title: "<li><b>[Aug. 2019]: I join Department of Computer Science, Stony Brook University as a Ph.D. student starting from Fall 2019.</b></li>"
+      - title: "<li><b>[Aug. 2019]: I joined department of computer science, Stony Brook University as a Ph.D. student starting from Fall 2019.</b></li>"
+      
+      - title: "<li><b>[Aug. 2019]: I received APWeb-WAIM 2019 Best Paper Runner-Up award.</b></li>"
     
-      - title: "<li>[Jun. 2019]: I graduate from Huazhong University of Science and Technology!</li></ul>"       
+      - title: "<li>[Jun. 2019]: I graduated from Huazhong University of Science and Technology!</li></ul>"       
                 
 
   
@@ -149,7 +151,7 @@ publications:
 
       - title: "A Framework for Image Dark Data Assessment"
         authors: Yu Liu, Yangtao Wang, Ke Zhou, Guoliang Li, Yujuan Yang, <b>Yifei Liu</b>, Jingkuan Song and Zhili Xiao
-        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, 2019."
+        conference: "in Proceedings of the 3rd APWeb-WAIM joint conference on Web and Big Data (<b>APWeb-WAIM</b>), Chengdu, China, 2019. <b><font color="red">(Best Paper Runner-Up)</font></b>"
         
       - title: "Research of Web Service Recommendation Using Bayesian Network Reasoning"
         authors: Jianxiao Liu, Zonglin Tian, <b>Yifei Liu</b>, and Liang Zhao
@@ -157,7 +159,7 @@ publications:
         
       - title: "A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD"
         authors: Pujuan Shi, <b>Yifei Liu</b>, Yihang Fang, Chengda Lin, and Ruifang Zhai
-        conference: "in Proceedings of the 4th International Conference on Agro-Geoinformatics (<b>Agro-geoinformatics</b>), Istanbul, Turkey, 2015. (<b>Oral</b>)"
+        conference: "in Proceedings of the 4th International Conference on Agro-Geoinformatics (<b>Agro-geoinformatics</b>), Istanbul, Turkey, 2015. <b>(Oral)</b>"
 
 
           
