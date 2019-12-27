@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Yifei Liu's Homepage
-url: 'https://yifeiliu.com'
+#url: 'https://yifeiliu.com'
 #baseurl: '/online-cv' #change it according to your repository name
 baseurl: '/'
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
