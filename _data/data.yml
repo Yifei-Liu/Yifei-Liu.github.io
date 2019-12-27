@@ -44,6 +44,8 @@ sidebar:
 career-profile:
     title: Short Biography
     summary: |
+      <p><font size="5" color="red">This page is obsolete, you will redirect to my <a href="https://yifeiliu.me/">new homepage</a> in 5 seconds.</font></p>
+
       My name is Yifei Liu (刘毅斐 in Chinese). I am a first-year Ph.D. student in [Computer Science](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu). I am broadly interested in distributed file/storage systems and operating systems. Please find my C.V. [here](./Yifei_Liu_CV.pdf).
       
       Prior to my Ph.D. journey, I obtained Master degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) and Bachelor degree from [Huazhong Agricultural University](http://www.hzau.edu.cn/en/HOME.htm) in 2019 and 2016 respectively. 
